@@ -1,0 +1,229 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dc:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1
+T_opt
+!s110 1761523454
+VQPMc_i4hJ5IGoK8N<@_=P0
+04 6 4 work imc_tb fast 0
+=3-988fe064c3ae-68feb6fd-38e-6ce4
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.4;75
+R1
+vadder16
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1761524667
+!i10b 1
+!s100 >QJcIIFUjgRj9DjFY?chP2
+IQ5nRUgQ5fgQ^PeNR9jCY[0
+S1
+R1
+w1761432671
+8c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\16bit_adder.sv
+Fc:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\16bit_adder.sv
+!i122 250
+Z4 L0 2 7
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z7 !s108 1761524666.000000
+!s107 c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\16bit_adder.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\16bit_adder.sv|
+!i113 0
+Z8 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcomparator
+R3
+!s110 1761524666
+!i10b 1
+!s100 Cn@01n6M;k^bFcGY3GJ?`2
+IC81gmR]TkKi^Cg5TkG4oT3
+S1
+R1
+w1761430729
+8c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\comparator.sv
+Fc:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\comparator.sv
+!i122 249
+Z9 L0 1 14
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\comparator.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\il2234ht25-homework-4-eiiluwyy-sys\q1\comparator.sv|
+!i113 0
+R8
+R2
+vimc
+R3
+Z10 !s110 1761523446
+!i10b 1
+!s100 3]4n5b@2;3n2U^bPfQ5aW2
+IHEEL3JS=JZzNF28^Tk<8D1
+S1
+Z11 dC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1
+w1761522447
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc.sv
+!i122 243
+L0 1 261
+R5
+R6
+r1
+!s85 0
+31
+!s108 1761523445.000000
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vimc_tb
+R3
+R10
+!i10b 1
+!s100 b5BLJ9^:^>SA;kzBKGhN_0
+IiG4P5dBZ><D43@>?P=0R03
+S1
+R11
+w1761523434
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc_tb.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc_tb.sv
+!i122 244
+L0 3 115
+R5
+R6
+r1
+!s85 0
+31
+Z13 !s108 1761523446.000000
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/imc_tb.sv|
+!i113 0
+R12
+R2
+vmultiplier
+R3
+R10
+!i10b 1
+!s100 ofo:gOAoHJEIzk<fS=TJ_1
+I:Od0P0cc@7h6BA6Tc5S7l1
+S1
+R11
+w1761418496
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv
+!i122 245
+L0 1 18
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv|
+!i113 0
+R12
+R2
+vmux
+R3
+R10
+!i10b 1
+!s100 0534LDO1B3H;EnPFMAK2D1
+I_YU[Id]2Z?AzlTh5edgHN3
+S1
+R11
+w1761432805
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv
+!i122 246
+R9
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv|
+!i113 0
+R12
+R2
+vreciprocal
+R3
+R10
+!i10b 1
+!s100 E4E1;eH7O8P;f_?Rdm?6E3
+Ia7A>6A?Rg@dXYCJWom_QY2
+S1
+R11
+w1761432274
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv
+!i122 247
+L0 1 25
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv|
+!i113 0
+R12
+R2
+vsubtractor16
+R3
+R10
+!i10b 1
+!s100 EeU_SeOjVI7Tz16FG_PXz3
+I;W_bhMb`5R[ICV>?Ye]`l3
+S1
+R11
+w1761432672
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv
+!i122 248
+R4
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv|
+!i113 0
+R12
+R2

@@ -23,3 +23,5 @@ module reciprocal ( input  logic [15:0] x,
     end
 
 endmodule
+
+//     1/x=(1/256)*y

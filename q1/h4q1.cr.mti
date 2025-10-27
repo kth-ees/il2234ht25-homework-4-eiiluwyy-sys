@@ -1,0 +1,43 @@
+C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multixplexer.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/multiplier.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/reciprocal.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module reciprocal
+
+Top level modules:
+	reciprocal
+
+} {} {}} C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/comparator.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/comparator.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/subtractor.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module subtractor16
+
+Top level modules:
+	subtractor16
+
+} {} {}} C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/16bit_adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-4-eiiluwyy-sys/q1/16bit_adder.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module adder16
+
+Top level modules:
+	adder16
+
+} {} {}}
